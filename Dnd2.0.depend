@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1556095251 source:d:\codeblocks\dnd2.0\statroller.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<cmath>
+
+1556095820 source:d:\codeblocks\dnd2.0\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<fstream>
+	"StatRoller.h"
+	"Classes.h"
+	"Races.h"
+
+1556076576 d:\codeblocks\dnd2.0\statroller.h
+
+1556044453 source:d:\codeblocks\dnd2.0\wizard.cpp
+
+1556044487 source:d:\codeblocks\dnd2.0\barbarian.cpp
+
+1556092305 d:\codeblocks\dnd2.0\classes.h
+
+1556095300 source:d:\codeblocks\dnd2.0\classes.cpp
+	"StatRoller.h"
+	"Races.h"
+	<iostream>
+
+1556094937 source:d:\codeblocks\dnd2.0\races.cpp
+
+1556094937 d:\codeblocks\dnd2.0\races.h
+
